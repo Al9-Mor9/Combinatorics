@@ -1,6 +1,18 @@
 # Combinatorics
 조합론
 
+## 풀어볼 문제들
+
+### :watermelon: 난이도 (下)
+
+### :evergreen_tree: 난이도 (中)
+
+### :fire: 난이도 (上)
+
+
+### 추가 문제
+
+
 + A - [이항 계수1 11050](https://www.acmicpc.net/problem/11050)   
 + B - [이항 계수 2 11051](https://www.acmicpc.net/problem/11051)   
 + C - [다리 놓기 1010](https://www.acmicpc.net/problem/1010)   

@@ -11,7 +11,7 @@
 
 ### :evergreen_tree: 난이도 (中)
 + B - (S2) [이항 계수 2 11051](https://www.acmicpc.net/problem/11051)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/11051/11051_P.cpp)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/11051/11051_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/11051/11051_H.py)
-+ K - (S2) [N과 M (9) 15663](https://www.acmicpc.net/problem/15663)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/15663/15663_P.cpp)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/15663/15663_H.py)
++ K - (S2) [N과 M (9) 15663](https://www.acmicpc.net/problem/15663)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/15663/15663_P.cpp)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/15663/15663_H.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/15663/15663_K.py)
 + L - (S2) [N과 M (10) 15664](https://www.acmicpc.net/problem/15664)
 + F - (G5) [1학년 5557](https://www.acmicpc.net/problem/5557)
 + I - (G5) [순열의 순서 1722](https://www.acmicpc.net/problem/1722)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1722/1722_P.cpp)

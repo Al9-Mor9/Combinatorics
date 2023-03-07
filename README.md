@@ -18,7 +18,7 @@
 + H - (G4) [출근 경로 5569](https://www.acmicpc.net/problem/5569)
 
 ### :fire: 난이도 (上)
-+ D - (G2) [사전 1256](https://www.acmicpc.net/problem/1256)   
++ D - (G2) [사전 1256](https://www.acmicpc.net/problem/1256)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1256/1256_P.cpp)
 + G - (P3) [산책	5573](https://www.acmicpc.net/problem/5573)
 
 ### 추가 문제

@@ -19,7 +19,7 @@
 
 ### :fire: 난이도 (上)
 + D - (G2) [사전 1256](https://www.acmicpc.net/problem/1256)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1256/1256_P.cpp)
-+ G - (P3) [산책	5573](https://www.acmicpc.net/problem/5573)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/5573/5573_P.cpp)
+
 
 ### 추가 문제
 + (G2) [너 봄에는 캡사이신이 맛있단다 15824](https://www.acmicpc.net/problem/15824)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/15824/15825_P.cpp)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/15824/15825_L.py)
